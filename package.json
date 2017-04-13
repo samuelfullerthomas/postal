@@ -1,0 +1,18 @@
+{
+  "name": "bst-postalcodes",
+  "version": "1.0.0",
+  "description": "Convert postal codes to BST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "jest-cli": "^19.0.2"
+  },
+  "dependencies": {
+    "config": "^1.25.1"
+  }
+}
